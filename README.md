@@ -1,0 +1,1 @@
+# spring-security-in-memory-auth
